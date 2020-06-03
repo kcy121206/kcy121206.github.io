@@ -9,12 +9,12 @@ url: "http://kcy121206.github.io/space-jekyll-template/" # for test: remove stri
 username: minyeong Kang
 user_title: minyeong Kang
 email: kcy121206@naver.com
-facebook_username: https://www.facebook.com/profile.php?id=100007807174308
+facebook_username: https://twitter.com/5GHAYqegylBj89H
 github_username:  https://github.com/kcy121206
 instargram_username: https://www.instagram.com/mew_yeong/?hl=ko 
 linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: KakaoTalk_20200603_231602115.jpg
+profile_picture: 민영사진.jpg
 
 # Build settings
 markdown: kramdown
