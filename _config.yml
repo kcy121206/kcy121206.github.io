@@ -1,4 +1,5 @@
 # Site settings
+remote_theme : mmistakes/minimal-mistakes
 title: minyeongKang
 description: "A blog about lorem ipsum ..."
 baseurl: "kcy121206.github.io" # for test: remove string '/space-jekyll-template' to ''
