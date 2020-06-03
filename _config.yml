@@ -10,11 +10,11 @@ username: minyeong Kang
 user_title: minyeong Kang
 email: kcy121206@naver.com
 facebook_username: https://twitter.com/5GHAYqegylBj89H
-github_username:  https://github.com/kcy121206
-instargram_username: https://www.instagram.com/mew_yeong/?hl=ko 
-linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: 민영사진.jpg
+github_username:  kcy121206
+gplus_username: kcy121206@gmail.com
+linkedin_public_url:https://github.com/kcy121206  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: minyeong kang
+profile_picture: 민영사진.png
 
 # Build settings
 markdown: kramdown
