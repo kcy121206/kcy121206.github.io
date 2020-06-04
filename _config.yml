@@ -35,16 +35,16 @@ links:
       url: https://github.com/kcy121206
       key_trigger: 1
     - title: my posts
-      url: /posts
+      url: https://github.com/kcy121206?tab=projects
       key_trigger: 2
     - title: series
-      url: /series
+      url: https://github.com/kcy121206
       key_trigger: 3
-    - title: tags
-      url: /tags
+    - title: instargram
+      url: https://www.instagram.com/mew_yeong/?hl=ko
       key_trigger: 4
-    - title: about me
-      url: /about
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100007807174308
       key_trigger: 5
   section_2:
     - title: github
